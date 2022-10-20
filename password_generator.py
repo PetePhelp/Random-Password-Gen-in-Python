@@ -13,7 +13,7 @@ while True:
     except ValueError:
         print(end="")
 print("Here is your password: ")
-for _ in range(x): # Random Caps too before adding to github???
+for _ in range(x):
     _ = random.randint(1,2)
     if _ == 1:
         chrgen = random.randint(97,122)
