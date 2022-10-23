@@ -1,6 +1,5 @@
 # Random Password Generator
 import random
-# If you have any advice on how I structure my code let me know always looking to improve B)
 
 while True:
     try:
